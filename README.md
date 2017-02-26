@@ -21,6 +21,6 @@
 **Lien de la VOD (sans post-production)** : [Youtube](https://www.youtube.com/watch?v=xVSs0grvE24)
 
 -  **Présentation de la fondation Mozilla** par [Quentin Lamamy](https://twitter.com/quentin_lamamy/)
--  **Pourquoi vous devez vous intéresser à Rust et présentation de [Snatch](https://github.com/derniercri/snatch)** par [Antonin Carette](https://twitter.com/k0pernicus) (Slides - Vidéo)
+-  **Pourquoi vous devez vous intéresser à Rust et présentation de [Snatch](https://github.com/derniercri/snatch)** par [Antonin Carette](https://twitter.com/k0pernicus) ([Slides](http://carette.xyz/lillefp_rust_2302.pdf) - Vidéo)
 -  **La gentille introduction à Elm** par [Raphaël Pallies]() et  [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/elm-begining/slides.pdf) - Vidéo)
 -  **Manipulating Time in Elm** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2017-02-23-manipulating-time-in-elm/#1) - Vidéo)
