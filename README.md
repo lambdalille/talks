@@ -5,7 +5,7 @@
 
 -  **Faire de la programmation fonctionnelle en JavaScript** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2016-07-11-you-can-do-fp-in-javascript/#1) - [Vidéo](https://www.youtube.com/watch?v=KtdacF5xSWQ))
 -  **Présentation du Mooc OCaml** par Paul Laforgue
--  **Asyncrhonisme et Scala** par [Jules Ivanic](https://twitter.com/guizmaii)
+-  **Asynchronisme et Scala** par [Jules Ivanic](https://twitter.com/guizmaii)
 -  **Elixir: Do we just follow the hype ?** par [Kevin Disneur](https://twitter.com/kdisneur) ([Slides](http://slides.com/kevindisneur/why-elixir#/) - [Vidéo](https://www.youtube.com/watch?v=mO75g9TFTRQ))
 
 ## LilleFP2 : le 28/11/2016 @ [Dernier Cri](https://derniercri.io)
