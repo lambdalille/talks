@@ -16,7 +16,7 @@
 -  **Elixir is not Ruby** par [Thomas Gautier](https://twitter.com/aryko) ([Slides](https://tgautier.github.io/slides/#/) - [Vidéo](https://www.youtube.com/watch?v=lu9t-TJa5cw))
 -  **Typesafe routing for Single Page App** [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp2/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=6GtpwlVuwQY))
 
-## LilleFP3 : le 23/11/2017 @ [Dernier Cri](https://derniercri.io)
+## LilleFP3 : le 23/02/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/237497716/)
 **Lien de la VOD (sans post-production)** : [Youtube](https://www.youtube.com/watch?v=xVSs0grvE24)
 
