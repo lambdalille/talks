@@ -22,10 +22,10 @@
 
 > Cet événement était en partenariat avec nos amis de [Rust Lille](https://www.meetup.com/fr-FR/rust-lille/)
 
--  **Présentation de la fondation Mozilla** par [Quentin Lamamy](https://twitter.com/quentin_lamamy/)
--  **Pourquoi vous devez vous intéresser à Rust et présentation de [Snatch](https://github.com/derniercri/snatch)** par [Antonin Carette](https://twitter.com/k0pernicus) ([Slides](http://carette.xyz/lillefp_rust_2302.pdf) - Vidéo)
--  **La gentille introduction à Elm** par [Raphaël Pallies](https://twitter.com/fpilot333) et  [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/elm-begining/slides.pdf) - Vidéo)
--  **Manipulating Time in Elm** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2017-02-23-manipulating-time-in-elm/#1) - Vidéo)
+-  **Présentation de la fondation Mozilla** par [Quentin Lamamy](https://twitter.com/quentin_lamamy/) ([Vidéo](https://www.youtube.com/watch?v=fjZPbYyM49w))
+-  **Pourquoi vous devez vous intéresser à Rust et présentation de [Snatch](https://github.com/derniercri/snatch)** par [Antonin Carette](https://twitter.com/k0pernicus) ([Slides](http://carette.xyz/lillefp_rust_2302.pdf) - [Vidéo 1](https://www.youtube.com/watch?v=4zVC2goUcaY) - [Vidéo 2](https://www.youtube.com/watch?v=R0lxyvdRh0A))
+-  **La gentille introduction à Elm** par [Raphaël Pallies](https://twitter.com/fpilot333) et  [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/elm-begining/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=rVZRCXutfng))
+-  **Manipulating Time in Elm** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2017-02-23-manipulating-time-in-elm/#1) - [Vidéo](https://www.youtube.com/watch?v=kCsHayhYgZY))
 
 ## LilleFP4 : le 04/05/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/238540711/)
