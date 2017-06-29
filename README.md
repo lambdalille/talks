@@ -38,6 +38,7 @@
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/240476119/)
 
 - **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/go.pdf) - Vidéo)
-
 - **Gestion d'erreur fonctionnelle avec Scala et Cats** par [Thomas Dufour](https://twitter.com/chwthewke) ([Slides](https://github.com/chwthewke/lillefp5/raw/master/cats-errors.pdf) - Vidéo)
+
+## LilleFP6
 
