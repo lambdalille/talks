@@ -37,7 +37,7 @@
 ## LilleFP5 : le 22/06/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/240476119/)
 
-- **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) (Slides - Vidéo)
+- **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) ([Slides]() - Vidéo)
 
 - **Gestion d'erreur fonctionnelle avec Scala et Cats** par [Thomas Dufour](https://twitter.com/chwthewke) ([Slides](https://github.com/chwthewke/lillefp5/raw/master/cats-errors.pdf) - Vidéo)
 
