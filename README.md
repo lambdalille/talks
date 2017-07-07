@@ -30,8 +30,8 @@
 ## LilleFP4 : le 04/05/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/238540711/)
 
--  **Laissons le Lama cracher, Alpaca** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/alpaca/slides.pdf) - Vidéo)
--  **Implicits: pour faire des APIs simples, des DSL ou de la magie noire, ça marche comment ?** par [Quentin Adam](https://twitter.com/waxzce) (Vidéo)
+-  **Laissons le Lama cracher, Alpaca** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/alpaca/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=qUJokqiPFrQ))
+-  **Implicits: pour faire des APIs simples, des DSL ou de la magie noire, ça marche comment ?** par [Quentin Adam](https://twitter.com/waxzce) ([Vidéo](https://www.youtube.com/watch?v=FFwq4LtxzZg&t=16s))
 
 
 ## LilleFP5 : le 22/06/2017 @ [Dernier Cri](https://derniercri.io)
