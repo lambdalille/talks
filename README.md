@@ -40,5 +40,8 @@
 - **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/go.pdf) - Vidéo)
 - **Gestion d'erreur fonctionnelle avec Scala et Cats** par [Thomas Dufour](https://twitter.com/chwthewke) ([Slides](https://github.com/chwthewke/lillefp5/raw/master/cats-errors.pdf) - Vidéo)
 
-## LilleFP6
+## LilleFP6 : Le 18/09/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/preview/Lille-FP/events/242380047)
 
+- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) (Slides - Vidéo)
+- **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) (Slides - Vidéo)
