@@ -37,11 +37,11 @@
 ## LilleFP5 : le 22/06/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/240476119/)
 
-- **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/go.pdf) - Vidéo)
-- **Gestion d'erreur fonctionnelle avec Scala et Cats** par [Thomas Dufour](https://twitter.com/chwthewke) ([Slides](https://github.com/chwthewke/lillefp5/raw/master/cats-errors.pdf) - Vidéo)
+- **Go, un langage déficient ?** par [Guillaume Bailleul](https://twitter.com/laibulle) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/go.pdf) - [Vidéo](https://www.youtube.com/watch?v=BMttH2H0Q7s))
+- **Gestion d'erreur fonctionnelle avec Scala et Cats** par [Thomas Dufour](https://twitter.com/chwthewke) ([Slides](https://github.com/chwthewke/lillefp5/raw/master/cats-errors.pdf) - [Vidéo](https://www.youtube.com/watch?v=im5bTIi4yNU))
 
 ## LilleFP6 : Le 18/09/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/preview/Lille-FP/events/242380047)
 
-- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) (Slides - Vidéo)
-- **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) (Slides - Vidéo)
+- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp6-ocaml/slides.pdf) - Vidéo)
+- **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) ([Slides](https://www.slideshare.net/ThomasHaessle/nodejs-the-edge-of-reason-lille-fp6) - Vidéo)
