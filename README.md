@@ -51,5 +51,4 @@
 
 - **Exploration des meta-formats via les bitstrings en Elixir** par [Julien Leclercq](https://twitter.com/Juli1_leclercq) (Slides - Vidéo)
 
-- **Votre API peut très bien se passer de Phoenix** par [Thomas Gautier](https://twitter.com/aryko) (Slides - Vidéo)
-
+- **Votre API peut très bien se passer de Phoenix** par [Thomas Gautier](https://twitter.com/aryko) ([Slides](mirror/lillefp7-phoenix.pdf) - Vidéo)
