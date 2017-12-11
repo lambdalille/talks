@@ -49,6 +49,6 @@
 ## LilleFP7 : Le 16/11/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/Lille-FP/events/244510772/)
 
-- **Exploration des meta-formats via les bitstrings en Elixir** par [Julien Leclercq](https://twitter.com/Juli1_leclercq) (Slides - Vidéo)
+- **Exploration des meta-formats via les bitstrings en Elixir** par [Julien Leclercq](https://twitter.com/Juli1_leclercq) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-bitstring.pdf) - Vidéo)
 
 - **Votre API peut très bien se passer de Phoenix** par [Thomas Gautier](https://twitter.com/aryko) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-phoenix.pdf) - Vidéo)
