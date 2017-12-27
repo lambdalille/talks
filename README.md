@@ -43,8 +43,8 @@
 ## LilleFP6 : Le 18/09/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/preview/Lille-FP/events/242380047)
 
-- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp6-ocaml/slides.pdf) - Vidéo)
-- **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) ([Slides](https://www.slideshare.net/ThomasHaessle/nodejs-the-edge-of-reason-lille-fp6) - Vidéo)
+- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp6-ocaml/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=j7JX9hRTRJo))
+- **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) ([Slides](https://www.slideshare.net/ThomasHaessle/nodejs-the-edge-of-reason-lille-fp6) - [Vidéo](https://www.youtube.com/watch?v=a4QlUn7cUkA))
 
 ## LilleFP7 : Le 16/11/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/Lille-FP/events/244510772/)
