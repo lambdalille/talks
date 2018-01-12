@@ -52,3 +52,14 @@
 - **Exploration des meta-formats via les bitstrings en Elixir** par [Julien Leclercq](https://twitter.com/Juli1_leclercq) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-bitstring.pdf) - [Vidéo](https://www.youtube.com/watch?v=XIVF1eDO6uE))
 
 - **Phoenix is not your API** par [Thomas Gautier](https://twitter.com/aryko) ([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-phoenix.pdf) - [Vidéo](https://www.youtube.com/watch?v=grcplpIL60I))
+
+## LilleFP8 : Le 08/01/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/246212553/)
+
+- **Des chaînes et des transactions (Blockchain)**
+par [Adrien Bensaïbi](https://twitter.com/olinkloo)
+([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp8-blockchain.pdf) - Vidéo)
+
+- **Tests de propriétés avec ScalaCheck**
+par [Thomas Dufour](https://twitter.com/chwthewke)
+([Slides](https://github.com/chwthewke/lillefp8/raw/master/Tests%20de%20propri%C3%A9t%C3%A9s.pdf) - Vidéo)
