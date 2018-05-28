@@ -63,3 +63,30 @@ par [Adrien Bensaïbi](https://twitter.com/olinkloo)
 - **Tests de propriétés avec ScalaCheck**
 par [Thomas Dufour](https://twitter.com/chwthewke)
 ([Slides](https://github.com/chwthewke/lillefp8/raw/master/Tests%20de%20propri%C3%A9t%C3%A9s.pdf) - Vidéo)
+
+
+## LilleFP9 : Le 20/03/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/248092848/)
+
+- **Building a Several Pages App with Elm (Json handling)**
+par [Vincent Billey](https://twitter.com/Fenntasy)
+([Slides]() - Vidéo)
+
+- **Trouver des Bugs inter-procéduraux à grande échelle avec Infer**
+par [Jules Villard](https://github.com/jvillard)
+([Slides](mirror/lillefp9-infer.pdf))
+
+> Pour des raisons juridiques, la vidéo sur Infer ne pourra pas être mise en ligne.
+> Pas de panique, vous pouvez tout de même regarder la vidéo de la présentation au
+> FOSDEM : [ici](https://fosdem.org/2018/schedule/event/code_finding_inter_procedural_bugs_at_scale_with_infer_static_analyzer/)
+
+## LilleFP10 : Le 25/05/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-li
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/250297947/)
+
+- **Type Classes from the Ground Up**
+par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)
+([Slides](https://nrinaudo.github.io/talk-typeclasses-csv/#1) - Vidéo)
+
+- **Generic typeclass derivation**
+par [Thomas Dufour](https://twitter.com/chwthewke)
+([Slides](https://github.com/chwthewke/lillefp10/raw/devel/Generic%20typeclass%20derivation.pdf) - Vidéo)
