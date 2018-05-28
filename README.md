@@ -80,7 +80,7 @@ par [Jules Villard](https://github.com/jvillard)
 > Pas de panique, vous pouvez tout de même regarder la vidéo de la présentation au
 > FOSDEM : [ici](https://fosdem.org/2018/schedule/event/code_finding_inter_procedural_bugs_at_scale_with_infer_static_analyzer/)
 
-## LilleFP10 : Le 25/05/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-li
+## LilleFP10 : Le 25/05/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/250297947/)
 
 - **Type Classes from the Ground Up**
