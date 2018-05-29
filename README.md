@@ -70,7 +70,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 
 - **Building a Several Pages App with Elm (Json handling)**
 par [Vincent Billey](https://twitter.com/Fenntasy)
-([Slides]() - Vidéo)
+([Slides](http://fenntasy.github.io/talks/spa-with-elm/index.html) - Vidéo)
 
 - **Trouver des Bugs inter-procéduraux à grande échelle avec Infer**
 par [Jules Villard](https://github.com/jvillard)
