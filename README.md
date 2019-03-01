@@ -90,3 +90,30 @@ par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)
 - **Generic typeclass derivation**
 par [Thomas Dufour](https://twitter.com/chwthewke)
 ([Slides](https://github.com/chwthewke/lillefp10/raw/devel/Generic%20typeclass%20derivation.pdf) - Vidéo)
+
+## LilleFP11 : Le 20/09/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/254473617/)
+
+- **Paramètres implicites dans le langage OCaml étendu avec des effets algébriques**
+par [Paul Laforgue](https://phink.github.io/)
+(Slides - Vidéo)
+
+- **Buzzwords et programmation fonctionnelle, 10 minutes pour comprendre ce que "sont les monades"**
+par [Xavier Van de Woestyne](https://xvw.github.io/)
+(Slides - Vidéo)
+
+- **Julia: the hack, the soundness and the math**
+par [Mathieu Besançon](http://matbesancon.github.io/)
+(Slides - Vidéo)
+
+## LilleFP12 : Le 27/02/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/258682124/)
+
+- **Tests de propriétés : Ecrire moins de tests, trouver plus de bugs**
+par [Julien Debon](https://twitter.com/Sir4ur0n)
+(Slides - Vidéo - [Code](https://github.com/Sir4ur0n/property-based-testing-talk-support))
+
+- **Applications web isomorphes en Haskell**
+par [Julien Dehos](http://julien.dehos.free.fr)
+([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
+
