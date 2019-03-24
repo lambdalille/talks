@@ -85,7 +85,7 @@ par [Jules Villard](https://github.com/jvillard)
 
 - **Type Classes from the Ground Up**
 par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)
-([Slides](https://nrinaudo.github.io/talk-typeclasses-csv/#1) - Vidéo)
+([Slides](https://nrinaudo.github.io/talk-typeclasses-csv/#1) - [Vidéo](https://youtu.be/xKO1dzcbSbM))
 
 - **Generic typeclass derivation**
 par [Thomas Dufour](https://twitter.com/chwthewke)
