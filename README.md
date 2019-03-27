@@ -58,11 +58,11 @@
 
 - **Des chaînes et des transactions (Blockchain)**
 par [Adrien Bensaïbi](https://twitter.com/olinkloo)
-([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp8-blockchain.pdf) - Vidéo)
+([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp8-blockchain.pdf) - [Vidéo](https://www.youtube.com/watch?v=203VwEyLrXQ))
 
 - **Tests de propriétés avec ScalaCheck**
 par [Thomas Dufour](https://twitter.com/chwthewke)
-([Slides](https://github.com/chwthewke/lillefp8/raw/master/Tests%20de%20propri%C3%A9t%C3%A9s.pdf) - Vidéo)
+([Slides](https://github.com/chwthewke/lillefp8/raw/master/Tests%20de%20propri%C3%A9t%C3%A9s.pdf) - [Vidéo](https://www.youtube.com/watch?v=wjHniPaZBP0))
 
 
 ## LilleFP9 : Le 20/03/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
@@ -70,7 +70,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 
 - **Building a Several Pages App with Elm (Json handling)**
 par [Vincent Billey](https://twitter.com/Fenntasy)
-([Slides](http://fenntasy.github.io/talks/spa-with-elm/index.html) - Vidéo)
+([Slides](http://fenntasy.github.io/talks/spa-with-elm/index.html) - [Vidéo](https://www.youtube.com/watch?v=J-ml4Dav6DQ))
 
 - **Trouver des Bugs inter-procéduraux à grande échelle avec Infer**
 par [Jules Villard](https://github.com/jvillard)
