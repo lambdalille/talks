@@ -56,7 +56,7 @@
 ## LilleFP8 : Le 08/01/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/246212553/)
 
-- **Des chaînes et des transactions (Blockchain)**
+- **Des chaînes et des transactions (Blockchain)**
 par [Adrien Bensaïbi](https://twitter.com/olinkloo)
 ([Slides](https://github.com/lillefp/talks/raw/master/mirror/lillefp8-blockchain.pdf) - [Vidéo](https://www.youtube.com/watch?v=203VwEyLrXQ))
 
@@ -89,7 +89,7 @@ par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo)
 
 - **Generic typeclass derivation**
 par [Thomas Dufour](https://twitter.com/chwthewke)
-([Slides](https://github.com/chwthewke/lillefp10/raw/devel/Generic%20typeclass%20derivation.pdf) - Vidéo)
+([Slides](https://github.com/chwthewke/lillefp10/raw/devel/Generic%20typeclass%20derivation.pdf) - [Vidéo](https://www.youtube.com/watch?v=EQe2X7Bf6sw))
 
 ## LilleFP11 : Le 20/09/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/254473617/)
