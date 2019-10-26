@@ -1,4 +1,4 @@
-# LilleFP : historique des présentations
+# Lambda Lille (ex-LilleFP) : historique des présentations
 
 ## LilleFP1 : le 12/07/2016 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/226004908/)
@@ -117,3 +117,35 @@ par [Julien Debon](https://twitter.com/Sir4ur0n)
 par [Julien Dehos](http://julien.dehos.free.fr)
 ([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
 
+## Lambda Lille 13 : Le 26/03/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/259496632/)
+
+- **The elevator problem: A brief contextualized introduction to finite state machines in a type-safe context**
+par [Xavier Van de Woestyne](https://twitter.com/vdwxv)
+(Slides - Vidéo)
+
+- **Le XXIème siècle sera typé ou ne sera pas**
+par [Arnaud Bailly](https://twitter.com/dr_c0d3)
+(Slides - Vidéo)
+
+## Lambda Lille 14 : Le 25/04/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/260541114/)
+
+- **Créer vos modules natifs avec Rust - introduction à Neon-Bindings**
+par [Thomas Haesslé](https://twitter.com/Oteku)
+(Slides - Vidéo)
+
+- **Un aperçu de l'écosystème Nix**
+par [Julien Dehos](http://julien.dehos.free.fr)
+(Slides - Vidéo)
+
+## Lambda Lille 15 : Le 21/05/2019 @ [Scaleway (la Maison)](https://careers.scaleway.com/la-maison/)
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/261321061/)
+
+- **Des apps multiplateformes avec reason-react-native**
+par [Mathieu Acthernoene](https://twitter.com/Zoontek)
+(Slides - Vidéo)
+
+- **Pure FP whaaaat?**
+par [Jules Ivanic](https://twitter.com/guizmaii)
+(Slides - Vidéo)
