@@ -19,7 +19,7 @@
 ## λ · remote 2 : Le 07/05/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/270275826/)
 
-- **Irmin : Yet another KV database ?** par [Thomas Haesslé](https://twitter.com/oteku) ([Billet](https://oteku.github.io/irmin-database-reasonml/) - [Vidéo](https://youtu.be/BT2e-DkcVQo)
+- **Irmin : Yet another KV database ?** par [Thomas Haesslé](https://twitter.com/oteku) ([Billet](https://oteku.github.io/irmin-database-reasonml/) - [Vidéo](https://youtu.be/BT2e-DkcVQo))
 
 - **Effets Algébriques pour écrire de "vrais logiciels** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Billet](https://xvw.github.io/longs/introduction_algebraic_effects.html) - [Vidéo](https://youtu.be/BT2e-DkcVQo?t=1770))
 
@@ -53,7 +53,7 @@ par [Mathieu Acthernoene](https://twitter.com/Zoontek)
 
 - **Pure FP whaaaat?**
 par [Jules Ivanic](https://twitter.com/guizmaii)
-(Slides - Vidéo)
+([Slides](https://guizmaii.github.io/LilleFP/#1) - Vidéo)
 
 - **Le XXIème siècle sera typé ou ne sera pas**
 par [Arnaud Bailly](https://twitter.com/dr_c0d3)
@@ -64,15 +64,11 @@ par [Arnaud Bailly](https://twitter.com/dr_c0d3)
 
 - **Créer vos modules natifs avec Rust - introduction à Neon-Bindings**
 par [Thomas Haesslé](https://twitter.com/Oteku)
-(Slides - Vidéo)
+([Billet](https://oteku.github.io/rust-my-node/) - Vidéo)
 
 - **Un aperçu de l'écosystème Nix**
 par [Julien Dehos](http://julien.dehos.free.fr)
 (Slides - Vidéo)
-
-- **Applications web isomorphes en Haskell**
-par [Julien Dehos](http://julien.dehos.free.fr)
-([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
 
 ## Lambda Lille 13 : Le 26/03/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/259496632/)
@@ -80,6 +76,10 @@ par [Julien Dehos](http://julien.dehos.free.fr)
 - **The elevator problem: A brief contextualized introduction to finite state machines in a type-safe context**
 par [Xavier Van de Woestyne](https://twitter.com/vdwxv)
 (Slides - Vidéo)
+
+- **Applications web isomorphes en Haskell**
+par [Julien Dehos](http://julien.dehos.free.fr)
+([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
 
 ## LilleFP12 : Le 27/02/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/258682124/)
