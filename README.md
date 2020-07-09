@@ -28,7 +28,7 @@
 
 - **Programmation par traits sous l'influence de la gestion mémoire** par [Didier Plaindoux](https://twitter.com/dplaindoux) (Slides - [Vidéo](https://youtu.be/6CO98XBsNiY))
 
-- **Coder un streamer video en 135 lignes de Haskell et en 1 week-end** par [Julien Dehos](http://julien.dehos.free.fr) (Slides - [Vidéo](https://youtu.be/6CO98XBsNiY?t=4355))
+- **Coder un streamer video en 135 lignes de Haskell et en 1 week-end** par [Julien Dehos](https://juliendehos.gitlab.io/) ([Slides](https://juliendehos.gitlab.io/talk-2020-lambdalille-covideo19/index.pdf) - [Vidéo](https://youtu.be/6CO98XBsNiY?t=4355) - [Code](https://gitlab.com/juliendehos/talk-2020-lambdalille-covideo19))
 
 ## Lambda Lille 17 : Le 16/01/2020 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/267489377/)
@@ -67,12 +67,8 @@ par [Thomas Haesslé](https://twitter.com/Oteku)
 (Slides - Vidéo)
 
 - **Un aperçu de l'écosystème Nix**
-par [Julien Dehos](http://julien.dehos.free.fr)
-(Slides - Vidéo)
-
-- **Applications web isomorphes en Haskell**
-par [Julien Dehos](http://julien.dehos.free.fr)
-([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
+par [Julien Dehos](https://juliendehos.gitlab.io/)
+([Slides](https://juliendehos.gitlab.io/talk-2019-lillefp-nix/) - [Code](https://gitlab.com/juliendehos/talk-2019-lillefp-nix))
 
 ## Lambda Lille 13 : Le 26/03/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/259496632/)
@@ -87,6 +83,10 @@ par [Xavier Van de Woestyne](https://twitter.com/vdwxv)
 - **Tests de propriétés : Ecrire moins de tests, trouver plus de bugs**
 par [Julien Debon](https://twitter.com/Sir4ur0n)
 (Slides - Vidéo - [Code](https://github.com/Sir4ur0n/property-based-testing-talk-support))
+
+- **Applications web isomorphes en Haskell**
+par [Julien Dehos](https://juliendehos.gitlab.io/)
+([Slides](https://juliendehos.gitlab.io/talk-2019-lillefp-miso/) - Vidéo - [Code](https://gitlab.com/juliendehos/talk-2019-lillefp-miso))
 
 ## LilleFP11 : Le 20/09/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/254473617/)
