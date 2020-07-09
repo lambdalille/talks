@@ -55,10 +55,6 @@ par [Mathieu Acthernoene](https://twitter.com/Zoontek)
 par [Jules Ivanic](https://twitter.com/guizmaii)
 ([Slides](https://guizmaii.github.io/LilleFP/#1) - Vidéo)
 
-- **Le XXIème siècle sera typé ou ne sera pas**
-par [Arnaud Bailly](https://twitter.com/dr_c0d3)
-(Slides - Vidéo)
-
 ## Lambda Lille 14 : Le 25/04/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/260541114/)
 
@@ -75,11 +71,11 @@ par [Julien Dehos](https://juliendehos.gitlab.io/)
 
 - **The elevator problem: A brief contextualized introduction to finite state machines in a type-safe context**
 par [Xavier Van de Woestyne](https://twitter.com/vdwxv)
-(Slides - Vidéo)
+([Slides](http://xvw.github.io/talks/breizhcamp-tep/slides.pdf) - Vidéo)
 
-- **Applications web isomorphes en Haskell**
-par [Julien Dehos](http://julien.dehos.free.fr)
-([Slides](https://juliendehos.gitlab.io/lillefp-2019-isomorphic/) - Vidéo - [Code](https://gitlab.com/juliendehos/lillefp-2019-isomorphic))
+- **Le XXIème siècle sera typé ou ne sera pas**
+par [Arnaud Bailly](https://twitter.com/dr_c0d3)
+(Slides - Vidéo)
 
 ## LilleFP12 : Le 27/02/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/258682124/)
