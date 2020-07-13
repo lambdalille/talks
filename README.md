@@ -1,12 +1,11 @@
 # Lambda Lille : historique des présentations
 
-
 ## λ · remote 4 : Le 09/07/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/271601210/)
 
-- **Clarifier les ADT/GADT** par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) (Slides - Vidéo)
+- **Clarifier les ADT/GADT** par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) ([Slides](https://nrinaudo.github.io/far-more-adt) - [Vidéo](https://youtu.be/fpGmsIoDU0k))
 
-- **Découverte de l'unikernel Mirage0S** par [Romain Calascibetta](https://twitter.com/Dinoosaure) (Slides - Vidéo)
+- **Découverte de l'unikernel Mirage0S** par [Romain Calascibetta](https://twitter.com/Dinoosaure) (Slides - [Vidéo](https://youtu.be/fpGmsIoDU0k?t=3794))
 
 
 ## λ · remote 3 : Le 11/06/2020 @ online
