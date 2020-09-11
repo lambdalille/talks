@@ -1,5 +1,13 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 5 : Le 10/09/2020 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/272699399/)
+
+- **Types vs Types** par [Julien Truffaut](https://twitter.com/JulienTruffaut) ([Slides](https://blog.fp-tower.com/types-vs-tests/#1) - Vidéo)
+
+- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) (Slides - Vidéo)
+
+
 ## λ · remote 4 : Le 09/07/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/271601210/)
 
