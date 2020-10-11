@@ -1,12 +1,18 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 6 : Le 08/10/2020 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/273574387/)
+
+- **C'est traverse** par [Clément Delafargue](https://twitter.com/clementd) ([Slides](https://clementd-files.cellar-c2.services.clever-cloud.com/lambdalille-traverse.html) - Vidéo)
+
+- **Trees That Grow pour les nuls** par [Julien Debon](https://twitter.com/Sir4ur0n) ([Slides](mirror/lambda-lille-remote-6-trees.pdf) - Vidéo)
+
 ## λ · remote 5 : Le 10/09/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/272699399/)
 
-- **Types vs Types** par [Julien Truffaut](https://twitter.com/JulienTruffaut) ([Slides](https://blog.fp-tower.com/types-vs-tests/#1) - Vidéo)
+- **Types vs Types** par [Julien Truffaut](https://twitter.com/JulienTruffaut) ([Slides](https://blog.fp-tower.com/types-vs-tests/#1) - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
 
-- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) (Slides - Vidéo)
-
+- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) (Slides - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
 
 ## λ · remote 4 : Le 09/07/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/271601210/)
@@ -14,7 +20,6 @@
 - **Clarifier les ADT/GADT** par [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) ([Slides](https://nrinaudo.github.io/far-more-adt) - [Vidéo](https://youtu.be/fpGmsIoDU0k))
 
 - **Découverte de l'unikernel Mirage0S** par [Romain Calascibetta](https://twitter.com/Dinoosaure) (Slides - [Vidéo](https://youtu.be/fpGmsIoDU0k?t=3794))
-
 
 ## λ · remote 3 : Le 11/06/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/270910676/)
