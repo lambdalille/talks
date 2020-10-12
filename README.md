@@ -12,7 +12,7 @@
 
 - **Types vs Types** par [Julien Truffaut](https://twitter.com/JulienTruffaut) ([Slides](https://blog.fp-tower.com/types-vs-tests/#1) - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
 
-- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) (Slides - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
+- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Slides](https://github.com/gbogard/free-monads-from-scratch/blob/master/presentation.pdf) - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
 
 ## λ · remote 4 : Le 09/07/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/271601210/)
