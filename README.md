@@ -9,7 +9,7 @@
 ## λ · remote 7 : Le 08/10/2020 @ online
 **Lien de l'événement**: [Meetup]()
 
-- **Tagged and refined types** par Nicolas François (Slides - [Vidéo](https://youtu.be/FiD2ZtwzluU))
+- **Tagged and refined types** par [Nicolas François](Koisell) ([Slides](https://github.com/MEDIARITHMICS/talks/tree/master/lambda-lille-nov-2020-tagged-refined-security) - [Vidéo](https://youtu.be/FiD2ZtwzluU))
 
 
 ## λ · remote 6 : Le 08/10/2020 @ online
