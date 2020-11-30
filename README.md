@@ -1,12 +1,12 @@
 # Lambda Lille : historique des présentations
 
 
-## λ · remote 8 : Le 08/10/2020 @ online
+## λ · remote 8 : Le 10/12/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/274785374/)
 
 - **Roll your own Computation blocks in Kotlin** par [Raul Raja](https://twitter.com/raulraja) (Slides - Vidéo)
 
-## λ · remote 7 : Le 08/10/2020 @ online
+## λ · remote 7 : Le 19/11/2020 @ online
 **Lien de l'événement**: [Meetup]()
 
 - **Tagged and refined types** par [Nicolas François](Koisell) ([Slides](https://github.com/MEDIARITHMICS/talks/tree/master/lambda-lille-nov-2020-tagged-refined-security) - [Vidéo](https://youtu.be/FiD2ZtwzluU))
