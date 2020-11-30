@@ -1,18 +1,30 @@
 # Lambda Lille : historique des présentations
 
+
+## λ · remote 8 : Le 08/10/2020 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/274785374/)
+
+- **Roll your own Computation blocks in Kotlin** par [Raul Raja](https://twitter.com/raulraja) (Slides - Vidéo)
+
+## λ · remote 7 : Le 08/10/2020 @ online
+**Lien de l'événement**: [Meetup]()
+
+- **Tagged and refined types** par Nicolas François (Slides - [Vidéo](https://youtu.be/FiD2ZtwzluU))
+
+
 ## λ · remote 6 : Le 08/10/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/273574387/)
 
-- **C'est traverse** par [Clément Delafargue](https://twitter.com/clementd) ([Slides](https://clementd-files.cellar-c2.services.clever-cloud.com/lambdalille-traverse.html) - Vidéo)
+- **C'est traverse** par [Clément Delafargue](https://twitter.com/clementd) ([Slides](https://clementd-files.cellar-c2.services.clever-cloud.com/lambdalille-traverse.html) - [Vidéo](https://youtu.be/qB_hDiQtrMo) )
 
-- **Trees That Grow pour les nuls** par [Julien Debon](https://twitter.com/Sir4ur0n) ([Slides](mirror/lambda-lille-remote-6-trees.pdf) - Vidéo)
+- **Trees That Grow pour les nuls** par [Julien Debon](https://twitter.com/Sir4ur0n) ([Slides](mirror/lambda-lille-remote-6-trees.pdf) - [Vidéo](https://youtu.be/qB_hDiQtrMo?t=3606) )
 
 ## λ · remote 5 : Le 10/09/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/272699399/)
 
 - **Types vs Types** par [Julien Truffaut](https://twitter.com/JulienTruffaut) ([Slides](https://blog.fp-tower.com/types-vs-tests/#1) - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
 
-- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Slides](https://github.com/gbogard/free-monads-from-scratch/blob/master/presentation.pdf) - [Vidéo](https://www.youtube.com/watch?v=HTvll2QWqFo))
+- **Free Monads** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Slides](https://github.com/gbogard/free-monads-from-scratch/blob/master/presentation.pdf) - [Vidéo](https://youtu.be/HTvll2QWqFo?t=3400))
 
 ## λ · remote 4 : Le 09/07/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/271601210/)
@@ -38,7 +50,7 @@
 ## λ · remote 1 : Le 09/04/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/269852942/)
 
-- **Programmation par traits sous l'influence de la gestion mémoire** par [Didier Plaindoux](https://twitter.com/dplaindoux) (Slides - [Vidéo](https://youtu.be/6CO98XBsNiY))
+- **Programmation par traits sous l'influence de la gestion mémoire** par [Didier Plaindoux](https://twitter.com/dplaindoux) ([Slides](https://github.com/d-plaindoux/rust-traits) - [Vidéo](https://youtu.be/6CO98XBsNiY))
 
 - **Coder un streamer video en 135 lignes de Haskell et en 1 week-end** par [Julien Dehos](https://juliendehos.gitlab.io/) ([Slides](https://juliendehos.gitlab.io/talk-2020-lambdalille-covideo19/index.pdf) - [Vidéo](https://youtu.be/6CO98XBsNiY?t=4355) - [Code](https://gitlab.com/juliendehos/talk-2020-lambdalille-covideo19))
 
