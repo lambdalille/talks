@@ -1,10 +1,23 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 10 : Le 11/02/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
+
+- **Des zippers et des types, par Florian Angeletti** (Slides - Vidéo)
+
+- **Catala, un langage fonctionnel dédié pour formaliser le droit fiscal** par [Denis Merigoux](https://twitter.com/DMerigoux) ([Slides](mirror/catala.pdf) - Vidéo)
+
+## λ · remote 9 : Le 14/01/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275535945/)
+
+- **API typesafe avec Haskell Servant** par [Caroline Gaudreau](https://twitter.com/akhesaCaro) (Slides - [Vidéo](https://www.youtube.com/watch?v=Fv-T06e0MDk))
+
+- **Les schémas de récursions** par  [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) ([Slides](https://nrinaudo.github.io/recursion-schemes-from-the-ground-up/#1) - Vidéo)
 
 ## λ · remote 8 : Le 10/12/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/274785374/)
 
-- **Roll your own Computation blocks in Kotlin** par [Raul Raja](https://twitter.com/raulraja) (Slides - Vidéo)
+- **Roll your own Computation blocks in Kotlin** par [Raul Raja](https://twitter.com/raulraja) ([Vidéo](https://www.youtube.com/watch?v=0_zatebXMDU))
 
 ## λ · remote 7 : Le 19/11/2020 @ online
 **Lien de l'événement**: [Meetup]()
@@ -45,7 +58,7 @@
 
 - **Irmin : Yet another KV database ?** par [Thomas Haesslé](https://twitter.com/oteku) ([Billet](https://oteku.github.io/irmin-database-reasonml/) - [Vidéo](https://youtu.be/BT2e-DkcVQo))
 
-- **Effets Algébriques pour écrire de "vrais logiciels** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Billet](https://xvw.github.io/longs/introduction_algebraic_effects.html) - [Vidéo](https://youtu.be/BT2e-DkcVQo?t=1770))
+- **Effets Algébriques pour écrire de "vrais logiciels** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Billet](https://xvw.github.io/longs/introduction_algebraic_effects.html) - [Slides](http://xvw.github.io/talks/lillefp-remote-effect/slides.pdf) -  [Vidéo](https://youtu.be/BT2e-DkcVQo?t=1770))
 
 ## λ · remote 1 : Le 09/04/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/269852942/)
@@ -120,8 +133,7 @@ par [Paul Laforgue](https://phink.github.io/)
 (Slides - Vidéo)
 
 - **Buzzwords et programmation fonctionnelle, 10 minutes pour comprendre ce que "sont les monades"**
-par [Xavier Van de Woestyne](https://xvw.github.io/)
-(Slides - Vidéo)
+par [Xavier Van de Woestyne](https://xvw.github.io/) ([Vidéo](https://www.youtube.com/watch?v=vFAuWHPSZts))
 
 - **Julia: the hack, the soundness and the math**
 par [Mathieu Besançon](http://matbesancon.github.io/)
