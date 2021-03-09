@@ -137,7 +137,7 @@ par [Xavier Van de Woestyne](https://xvw.github.io/) ([Vidéo](https://www.youtu
 
 - **Julia: the hack, the soundness and the math**
 par [Mathieu Besançon](http://matbesancon.github.io/)
-(Slides - Vidéo)
+(Slides - [Vidéo](https://www.youtube.com/watch?v=DROzsNero04))
 
 ## LilleFP10 : Le 25/05/2018 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/250297947/)
