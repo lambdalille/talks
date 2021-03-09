@@ -72,7 +72,7 @@
 
 - **Différentiation algorithmique pour les développeurs** par [Mathieu Besançon](https://twitter.com/matbesancon) (Slides - Vidéo)
 
-- **Étude et compilation d'un langage fonctionnel** par [Didier Plaindoux](https://twitter.com/dplaindoux) (Slides - Vidéo)
+- **Étude et compilation d'un langage fonctionnel** par [Didier Plaindoux](https://twitter.com/dplaindoux) ([Slides](http://d.plaindoux.free.fr/talks/lambdalille/mfun/index.html#/) - [Support](https://github.com/d-plaindoux/mfun) - Vidéo)
 
 ## Lambda Lille 16 : Le 28/11/2019 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/266407092/)
