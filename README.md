@@ -51,7 +51,7 @@
 
 - ***Tagless Final*, un pont entre théorie et pratique** par [Frederic Cabestre](https://twitter.com/fcabestre) (Slides - [Vidéo](https://www.youtube.com/watch?v=moJpV-BgezM))
 
-- **Asynchronisme et hexagone en Kotlin avec ArrowKt** par [Francois Teychene](https://twitter.com/fteychene) (Slides - [Vidéo](https://youtu.be/moJpV-BgezM?t=3861))
+- **Asynchronisme et hexagone en Kotlin avec ArrowKt** par [Francois Teychene](https://twitter.com/fteychene) ([Slides](https://docs.google.com/presentation/d/1VHks70cEW7CAWbiiien5bXEqfeSZ8m4ixVN31yoUP28/present#slide=id.p3) - [Vidéo](https://youtu.be/moJpV-BgezM?t=3861))
 
 ## λ · remote 2 : Le 07/05/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/270275826/)
