@@ -3,16 +3,16 @@
 ## λ · remote 10 : Le 11/02/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
 
-- **Des zippers et des types, par Florian Angeletti** (Slides - [https://www.youtube.com/watch?v=PF1RIOYp-pc](Vidéo))
+- **Des zippers et des types, par Florian Angeletti** (Slides - [Vidéo](https://www.youtube.com/watch?v=PF1RIOYp-pc))
 
-- **Catala, un langage fonctionnel dédié pour formaliser le droit fiscal** par [Denis Merigoux](https://twitter.com/DMerigoux) ([Slides](mirror/catala.pdf) - [https://www.youtube.com/watch?v=vaXGgrUHtuk](Vidéo))
+- **Catala, un langage fonctionnel dédié pour formaliser le droit fiscal** par [Denis Merigoux](https://twitter.com/DMerigoux) ([Slides](mirror/catala.pdf) - [Vidéo](https://www.youtube.com/watch?v=vaXGgrUHtuk))
 
 ## λ · remote 9 : Le 14/01/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275535945/)
 
 - **API typesafe avec Haskell Servant** par [Caroline Gaudreau](https://twitter.com/akhesaCaro) ([Slides](mirror/servant.pdf) - [Vidéo](https://www.youtube.com/watch?v=Fv-T06e0MDk))
 
-- **Les schémas de récursions** par  [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) ([Slides](https://nrinaudo.github.io/recursion-schemes-from-the-ground-up/#1) - [https://www.youtube.com/watch?v=7pLxJY-HHO0](Vidéo))
+- **Les schémas de récursions** par  [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) ([Slides](https://nrinaudo.github.io/recursion-schemes-from-the-ground-up/#1) - [Vidéo](https://www.youtube.com/watch?v=7pLxJY-HHO0))
 
 ## λ · remote 8 : Le 10/12/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/274785374/)
