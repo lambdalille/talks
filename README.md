@@ -79,7 +79,7 @@
 
 - **Retour d'expérience - Concurrence avec Elixir** par Benoît Caccinolo (Slides - Vidéo)
 
-- **Monade IO et gestion des erreurs : des Exceptions à Cats MTL** par [Guillaume Bogard](https://twitter.com/bogardguillaume) (Slides - Vidéo)
+- **Monade IO et gestion des erreurs : des Exceptions à Cats MTL** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Slides](https://github.com/gbogard/cats-mtl-talk/blob/master/slides.pdf) - [Support](https://github.com/gbogard/cats-mtl-talk) - Vidéo)
 
 ## Lambda Lille 15 : Le 21/05/2019 @ [Scaleway (la Maison)](https://careers.scaleway.com/la-maison/)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/261321061/)
