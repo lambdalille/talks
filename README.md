@@ -119,7 +119,7 @@ par [Arnaud Bailly](https://twitter.com/dr_c0d3)
 
 - **Tests de propriétés : Ecrire moins de tests, trouver plus de bugs**
 par [Julien Debon](https://twitter.com/Sir4ur0n)
-(Slides - Vidéo - [Code](https://github.com/Sir4ur0n/property-based-testing-talk-support))
+([Slides](https://docs.google.com/presentation/d/1SoBSu6ijnlt3nS694-I3OTgC6LyoiDhAae8Ff2KQMes/edit#slide=id.p) - Vidéo - [Code](https://github.com/Sir4ur0n/property-based-testing-talk-support))
 
 - **Applications web isomorphes en Haskell**
 par [Julien Dehos](https://juliendehos.gitlab.io/)
