@@ -70,7 +70,7 @@
 ## Lambda Lille 17 : Le 16/01/2020 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/267489377/)
 
-- **Différentiation algorithmique pour les développeurs** par [Mathieu Besançon](https://twitter.com/matbesancon) (Slides - Vidéo)
+- **Différentiation algorithmique pour les développeurs** par [Mathieu Besançon](https://twitter.com/matbesancon) ([Slides](https://matbesancon.github.io/slides/ad4dev#/) - Vidéo)
 
 - **Étude et compilation d'un langage fonctionnel** par [Didier Plaindoux](https://twitter.com/dplaindoux) ([Slides](http://d.plaindoux.free.fr/talks/lambdalille/mfun/index.html#/) - [Support](https://github.com/d-plaindoux/mfun) - Vidéo)
 
