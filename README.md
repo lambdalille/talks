@@ -70,7 +70,7 @@
 
 - **Irmin : Yet another KV database ?** par [Thomas Haesslé](https://twitter.com/oteku) ([Billet](https://oteku.github.io/irmin-database-reasonml/) - [Vidéo](https://youtu.be/BT2e-DkcVQo))
 
-- **Effets Algébriques pour écrire de "vrais logiciels** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Billet](https://xvw.github.io/longs/introduction_algebraic_effects.html) - [Slides](http://xvw.github.io/talks/lillefp-remote-effect/slides.pdf) -  [Vidéo](https://youtu.be/BT2e-DkcVQo?t=1770))
+- **Effets Algébriques pour écrire de "vrais logiciels** par [Xavier Van de Woestyne](https://xvw.github.io) ([Billet](https://xvw.github.io/longs/introduction_algebraic_effects.html) - [Slides](http://xvw.github.io/talks/lillefp-remote-effect/slides.pdf) -  [Vidéo](https://youtu.be/BT2e-DkcVQo?t=1770))
 
 ## λ · remote 1 : Le 09/04/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/269852942/)
@@ -119,7 +119,7 @@ par [Julien Dehos](https://juliendehos.gitlab.io/)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/259496632/)
 
 - **The elevator problem: A brief contextualized introduction to finite state machines in a type-safe context**
-par [Xavier Van de Woestyne](https://twitter.com/vdwxv)
+par [Xavier Van de Woestyne](https://xvw.github.io)
 ([Slides](http://xvw.github.io/talks/breizhcamp-tep/slides.pdf) - Vidéo)
 
 - **Le XXIème siècle sera typé ou ne sera pas**
@@ -198,7 +198,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 ## LilleFP6 : Le 18/09/2017 @ [Epitech Lille](http://www.epitech.eu/lille/ecole-informatique-lille.aspx)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/preview/Lille-FP/events/242380047)
 
-- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp6-ocaml/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=j7JX9hRTRJo))
+- **A la découverte du langage OCaml** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lillefp6-ocaml/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=j7JX9hRTRJo))
 - **ReasonML & Bucklescript, ou comment faire une application NodeJS fonctionnelle** par [Thomas Haessle](https://twitter.com/oteku) ([Slides](https://www.slideshare.net/ThomasHaessle/nodejs-the-edge-of-reason-lille-fp6) - [Vidéo](https://www.youtube.com/watch?v=a4QlUn7cUkA))
 
 ## LilleFP5 : le 22/06/2017 @ [Dernier Cri](https://derniercri.io)
@@ -210,7 +210,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 ## LilleFP4 : le 04/05/2017 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/238540711/)
 
--  **Laissons le Lama cracher, Alpaca** par [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/alpaca/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=qUJokqiPFrQ))
+-  **Laissons le Lama cracher, Alpaca** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/alpaca/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=qUJokqiPFrQ))
 -  **Implicits: pour faire des APIs simples, des DSL ou de la magie noire, ça marche comment ?** par [Quentin Adam](https://twitter.com/waxzce) ([Vidéo](https://www.youtube.com/watch?v=FFwq4LtxzZg&t=16s))
 
 ## LilleFP3 : le 23/02/2017 @ [Dernier Cri](https://derniercri.io)
@@ -221,7 +221,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 
 -  **Présentation de la fondation Mozilla** par [Quentin Lamamy](https://twitter.com/quentin_lamamy/) ([Vidéo](https://www.youtube.com/watch?v=fjZPbYyM49w))
 -  **Pourquoi vous devez vous intéresser à Rust et présentation de [Snatch](https://github.com/derniercri/snatch)** par [Antonin Carette](https://twitter.com/k0pernicus) ([Slides](http://carette.xyz/lillefp_rust_2302.pdf) - [Vidéo 1](https://www.youtube.com/watch?v=4zVC2goUcaY) - [Vidéo 2](https://www.youtube.com/watch?v=R0lxyvdRh0A))
--  **La gentille introduction à Elm** par [Raphaël Pallies](https://twitter.com/fpilot333) et  [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/elm-begining/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=rVZRCXutfng))
+-  **La gentille introduction à Elm** par [Raphaël Pallies](https://twitter.com/fpilot333) et  [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/elm-begining/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=rVZRCXutfng))
 -  **Manipulating Time in Elm** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2017-02-23-manipulating-time-in-elm/#1) - [Vidéo](https://www.youtube.com/watch?v=kCsHayhYgZY))
 
 ## LilleFP2 : le 28/11/2016 @ [Dernier Cri](https://derniercri.io)
@@ -230,7 +230,7 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 > Cet événement était en partenariat avec nos amis de [Lille |> Elixir](https://www.meetup.com/fr-FR/Lille-Elixir/)
 
 -  **Elixir is not Ruby** par [Thomas Gautier](https://twitter.com/aryko) ([Slides](https://tgautier.github.io/slides/#/) - [Vidéo](https://www.youtube.com/watch?v=lu9t-TJa5cw))
--  **Typesafe routing for Single Page App** [Xavier Van de Woestyne](https://twitter.com/vdwxv) ([Slides](http://xvw.github.io/talks/lillefp2/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=6GtpwlVuwQY))
+-  **Typesafe routing for Single Page App** [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lillefp2/slides.pdf) - [Vidéo](https://www.youtube.com/watch?v=6GtpwlVuwQY))
 
 ## LilleFP1 : le 12/07/2016 @ [Dernier Cri](https://derniercri.io)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/226004908/)
