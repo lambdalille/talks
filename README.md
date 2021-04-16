@@ -1,5 +1,17 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 12 : Le 14/04/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/276820419/)
+
+- **Kotlin pour de la FP ? Une brève introductionà Arrow** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lambdalille-kotlin-arrow/support.pdf) - Vidéo)
+
+- **A gentle introduction to Conflict-free replicated data types** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Support et exemples](https://crdt.guillaumebogard.dev/) - [Slides](https://crdt.guillaumebogard.dev/slides/) - Vidéo)
+
+## λ · remote 11 : Le 24/03/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275980753/)
+
+- **Caramel: bringing an OCaml to the Erlang VM**, par [Leandro Ostera](https://twitter.com/leostera) (Slides - Vidéo)
+
 ## λ · remote 10 : Le 11/02/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
 
