@@ -10,7 +10,7 @@
 ## λ · remote 11 : Le 24/03/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275980753/)
 
-- **Caramel: bringing an OCaml to the Erlang VM**, par [Leandro Ostera](https://twitter.com/leostera) (Slides - Vidéo)
+- **Caramel: bringing an OCaml to the Erlang VM**, par [Leandro Ostera](https://twitter.com/leostera) ([Slides](https://slides.com/ostera/caramel-lang-v01/) - Vidéo)
 
 ## λ · remote 10 : Le 11/02/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
