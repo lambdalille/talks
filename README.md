@@ -1,6 +1,6 @@
 # Lambda Lille : historique des présentations
 
-## λ · remote 12 : Le 14/04/2021 @ online
+## λ · remote 12 : Le 15/04/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/276820419/)
 
 - **Kotlin pour de la FP ? Une brève introductionà Arrow** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lambdalille-kotlin-arrow/support.pdf) - Vidéo)
