@@ -146,7 +146,7 @@ par [Julien Dehos](https://juliendehos.gitlab.io/)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/254473617/)
 
 - **Paramètres implicites dans le langage OCaml étendu avec des effets algébriques**
-par [Paul Laforgue](https://phink.github.io/)
+par [Paul Laforgue](https://twitter.com/lowphink)
 (Slides - Vidéo)
 
 - **Buzzwords et programmation fonctionnelle, 10 minutes pour comprendre ce que "sont les monades"**
@@ -241,6 +241,6 @@ par [Thomas Dufour](https://twitter.com/chwthewke)
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/Lille-FP/events/226004908/)
 
 -  **Faire de la programmation fonctionnelle en JavaScript** par [Vincent Billey](https://twitter.com/Fenntasy) ([Slides](http://vincent.billey.me/talks/2016-07-11-you-can-do-fp-in-javascript/#1) - [Vidéo](https://www.youtube.com/watch?v=KtdacF5xSWQ))
--  **Présentation du Mooc OCaml** par Paul Laforgue
+-  **Présentation du Mooc OCaml** par [Paul Laforgue](https://twitter.com/lowphink)
 -  **Asynchronisme et Scala** par [Jules Ivanic](https://twitter.com/guizmaii)
 -  **Elixir: Do we just follow the hype ?** par [Kevin Disneur](https://twitter.com/kdisneur) ([Slides](http://slides.com/kevindisneur/why-elixir#/) - [Vidéo](https://www.youtube.com/watch?v=mO75g9TFTRQ))
