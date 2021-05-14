@@ -1,16 +1,21 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 13 : Le 12/05/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/277814368/)
+
+- **Introduction aux types dépendant via Idris** par [Valentin Robert](https://twitter.com/ptival) ([Support](https://github.com/Ptival/presentations/tree/master/2021-05-types) - Vidéo)
+
 ## λ · remote 12 : Le 15/04/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/276820419/)
 
-- **Kotlin pour de la FP ? Une brève introductionà Arrow** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lambdalille-kotlin-arrow/support.pdf) - Vidéo)
+- **Kotlin pour de la FP ? Une brève introduction à Arrow** par [Xavier Van de Woestyne](https://xvw.github.io) ([Slides](http://xvw.github.io/talks/lambdalille-kotlin-arrow/support.pdf) - Vidéo)
 
-- **A gentle introduction to Conflict-free replicated data types** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Support et exemples](https://crdt.guillaumebogard.dev/) - [Slides](https://crdt.guillaumebogard.dev/slides/) - Vidéo)
+- **A gentle introduction to Conflict-free replicated data types** par [Guillaume Bogard](https://twitter.com/bogardguillaume) ([Support et exemples](https://crdt.guillaumebogard.dev/) - [Slides](https://crdt.guillaumebogard.dev/slides/) - [Vidéo](https://www.youtube.com/watch?v=7XNXUsZ2uHI))
 
 ## λ · remote 11 : Le 24/03/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275980753/)
 
-- **Caramel: bringing an OCaml to the Erlang VM**, par [Leandro Ostera](https://twitter.com/leostera) ([Slides](https://slides.com/ostera/caramel-lang-v01/) - Vidéo)
+- **Caramel: bringing an OCaml to the Erlang VM**, par [Leandro Ostera](https://twitter.com/leostera) ([Slides](https://slides.com/ostera/caramel-lang-v01/) - [Vidéo](https://www.youtube.com/watch?v=dxo8GirFSkY))
 
 ## λ · remote 10 : Le 11/02/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
@@ -32,7 +37,7 @@
 - **Roll your own Computation blocks in Kotlin** par [Raul Raja](https://twitter.com/raulraja) ([Vidéo](https://www.youtube.com/watch?v=0_zatebXMDU))
 
 ## λ · remote 7 : Le 19/11/2020 @ online
-**Lien de l'événement**: [Meetup]()
+**Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/274348373/)
 
 - **Tagged and refined types** par [Nicolas François](Koisell) ([Slides](https://github.com/MEDIARITHMICS/talks/tree/master/lambda-lille-nov-2020-tagged-refined-security) - [Vidéo](https://youtu.be/FiD2ZtwzluU))
 
@@ -61,7 +66,7 @@
 ## λ · remote 3 : Le 11/06/2020 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/270910676/)
 
-- ***Tagless Final*, un pont entre théorie et pratique** par [Frederic Cabestre](https://twitter.com/fcabestre) (Slides - [Vidéo](https://www.youtube.com/watch?v=moJpV-BgezM))
+- ***Tagless Final*, un pont entre théorie et pratique** par [Frederic Cabestre](https://twitter.com/fcabestre) ([Slides](http://tagless-final-lambda-lille.sigusr.net/#/) - [Vidéo](https://www.youtube.com/watch?v=moJpV-BgezM))
 
 - **Asynchronisme et hexagone en Kotlin avec ArrowKt** par [Francois Teychene](https://twitter.com/fteychene) ([Slides](https://docs.google.com/presentation/d/1VHks70cEW7CAWbiiien5bXEqfeSZ8m4ixVN31yoUP28/present#slide=id.p3) - [Vidéo](https://youtu.be/moJpV-BgezM?t=3861))
 
