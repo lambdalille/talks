@@ -20,7 +20,7 @@
 ## λ · remote 10 : Le 11/02/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/275961019/)
 
-- **Des zippers et des types, par Florian Angeletti** (Slides - [Vidéo](https://www.youtube.com/watch?v=PF1RIOYp-pc))
+- **Des zippers et des types, par Florian Angeletti** ([Slides](https://perso.quaesituri.org/florian.angeletti/talks/Internet%3ALambdaLille%3A2021/presentation.html) - [Vidéo](https://www.youtube.com/watch?v=PF1RIOYp-pc))
 
 - **Catala, un langage fonctionnel dédié pour formaliser le droit fiscal** par [Denis Merigoux](https://twitter.com/DMerigoux) ([Slides](mirror/catala.pdf) - [Vidéo](https://www.youtube.com/watch?v=vaXGgrUHtuk))
 
