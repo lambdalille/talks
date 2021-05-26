@@ -3,7 +3,7 @@
 ## λ · remote 13 : Le 12/05/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/277814368/)
 
-- **Introduction aux types dépendant via Idris** par [Valentin Robert](https://twitter.com/ptival) ([Support](https://github.com/Ptival/presentations/tree/master/2021-05-types) - Vidéo)
+- **Introduction aux types dépendant via Idris** par [Valentin Robert](https://twitter.com/ptival) ([Support](https://github.com/Ptival/presentations/tree/master/2021-05-types) - [Vidéo](https://www.youtube.com/watch?v=pIUgDxqgtQo))
 
 ## λ · remote 12 : Le 15/04/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/276820419/)
