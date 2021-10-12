@@ -1,5 +1,12 @@
 # Lambda Lille : historique des présentations
 
+## λ · remote 14 : Elm, un langage fonctionnel ? & Rust-botic made my DDDay : Le 17/06/2021 @ online
+**Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/278388095/)
+
+- **Elm, un langage fonctionnel ?** par [Sébastien Besnier](https://twitter.com/_sebbes_) (Slides - [Vidéo](https://www.youtube.com/watch?v=HZNEfdlnBqc))
+
+- **Rust-botic made my DDDay !** par [Pierrick Mirabel](https://twitter.com/PierrickMirabel) et [Luis Parada](https://www.linkedin.com/in/lparada) (Slides - [Vidéo](https://www.youtube.com/watch?v=Wr-4aDIbW7k))
+
 ## λ · remote 13 : Le 12/05/2021 @ online
 **Lien de l'événement**: [Meetup](https://www.meetup.com/LambdaLille/events/277814368/)
 
