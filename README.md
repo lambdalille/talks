@@ -17,7 +17,7 @@ _Online_
 
 - **Rust-botic made my DDDay !** (FR), par
   [Pierrick Mirabel](https://twitter.com/PierrickMirabel), [Luis Parada](https://www.linkedin.com/in/lparada/).  
-  [Vidéo](https://www.youtube.com/watch?v=Wr-4aDIbW7k) - [Support](https://github.com/lambdalille/talks/raw/master/mirror/rustbotic.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=Wr-4aDIbW7k) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/rustbotic.pdf)
 
 
 
@@ -81,7 +81,7 @@ _Online_
 
 - **Catala, un langage fonctionnel dédié pour formaliser le droit fiscal** (FR), par
   [Denis Merigoux](https://twitter.com/DMerigoux).  
-  [Vidéo](https://www.youtube.com/watch?v=vaXGgrUHtuk) - [Support](https://github.com/lambdalille/talks/blob/master/mirror/catala.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=vaXGgrUHtuk) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/catala.pdf)
 
 
 
@@ -95,7 +95,7 @@ _Online_
 
 - **API typesafe avec Haskell Servant** (FR), par
   [Caroline Gaudreau](https://twitter.com/akhesaCaro).  
-  [Vidéo](https://www.youtube.com/watch?v=Fv-T06e0MDk) - [Support](https://github.com/lambdalille/talks/blob/master/mirror/servant.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=Fv-T06e0MDk) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/servant.pdf)
 
 - **Les schémas de récursions** (FR), par
   [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo).  
@@ -145,7 +145,7 @@ _Online_
 
 - **Trees That Grow pour les nuls** (FR), par
   [Julien Debon](https://twitter.com/Sir4ur0n).  
-  [Vidéo](https://github.com/lambdalille/talks/blob/master/mirror/lambda-lille-remote-6-trees.pdf) - [Support](https://youtu.be/qB_hDiQtrMo?t=3606)
+  [Vidéo](https://youtu.be/qB_hDiQtrMo?t=3606) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lambda-lille-remote-6-trees.pdf)
 
 
 
@@ -181,7 +181,7 @@ _Online_
 
 - **Découverte de l&apos;unikernel MirageOS** (FR), par
   [Romain Calascibetta](https://twitter.com/Dinoosaure).  
-  [Vidéo](https://youtu.be/fpGmsIoDU0k?t=3794) - [Support](https://github.com/lambdalille/talks/blob/master/mirror/MirageOS.pdf)
+  [Vidéo](https://youtu.be/fpGmsIoDU0k?t=3794) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/MirageOS.pdf)
 
 
 
@@ -307,7 +307,7 @@ _Online_
 
 - **Créer vos modules natifs avec Rust - introduction à Neon-Bindings** (FR), par
   [Thomas Haessle](https://twitter.com/oteku).  
-  [Support](https://raw.githubusercontent.com/lambdalille/talks/master/mirror/lillefp13-node-rust.pdf)
+  [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp13-node-rust.pdf)
 
 - **Un aperçu de l&apos;écosystème Nix** (FR), par
   [Julien Dehos](https://juliendehos.gitlab.io/).  
@@ -410,7 +410,7 @@ _Online_
 
 - **Trouver des Bugs inter-procéduraux à grande échelle avec Infer** (FR), par
   [Jules Villard](http://jules.pauvre.org/).  
-  [Support](https://github.com/lambdalille/talks/blob/master/mirror/lillefp9-infer.pdf)
+  [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp9-infer.pdf)
 
 
 
@@ -425,7 +425,7 @@ _Online_
 
 - **Des chaînes et des transactions (Blockchain)** (FR), par
   [Adrien Bensaïbi](https://twitter.com/olinkloo).  
-  [Vidéo](https://www.youtube.com/watch?v=203VwEyLrXQ) - [Support](https://github.com/lillefp/talks/raw/master/mirror/lillefp8-blockchain.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=203VwEyLrXQ) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp8-blockchain.pdf)
 
 - **Tests de propriétés avec ScalaCheck** (FR), par
   [Thomas Dufour](https://twitter.com/chwthewke).  
@@ -444,11 +444,11 @@ _Online_
 
 - **Exploration des meta-formats via les bitstrings en Elixir** (FR), par
   [Julien Leclercq](https://github.com/julien-leclercq).  
-  [Vidéo](https://www.youtube.com/watch?v=XIVF1eDO6uE) - [Support](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-bitstring.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=XIVF1eDO6uE) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp7-bitstring.pdf)
 
 - **Phoenix is not your API** (FR), par
   [Thomas Gautier](https://twitter.com/aryko).  
-  [Vidéo](https://www.youtube.com/watch?v=grcplpIL60I) - [Support](https://github.com/lillefp/talks/raw/master/mirror/lillefp7-phoenix.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=grcplpIL60I) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/lillefp7-phoenix.pdf)
 
 
 
@@ -482,7 +482,7 @@ _Online_
 
 - **Go, un langage déficient ?** (FR), par
   [Guillaume Bailleul](https://github.com/guillaumebailleul).  
-  [Vidéo](https://www.youtube.com/watch?v=BMttH2H0Q7s) - [Support](https://github.com/lillefp/talks/raw/master/mirror/go.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=BMttH2H0Q7s) - [Support](https://raw.githubusercontent.com/lambdalille/mirror/gh-pages/go.pdf)
 
 - **Gestion d&apos;erreur fonctionnelle avec Scala et Cats** (FR), par
   [Thomas Dufour](https://twitter.com/chwthewke).  
