@@ -4,6 +4,24 @@
 > dans le répertoire [history](https://github.com/lambdalille/history).
 > Il ne faut donc pas modifier ce fichier !
 
+## λ · remote 15 : Coq, OCaml et Tezos et la recherche en langages de programmation
+
+2021-06-17 19:30:00
+_Online_
+
+**Lien de l'événement:** [Meetup](https://www.meetup.com/fr-FR/LambdaLille/events/281374644/)
+
+- **Coq-of-ocaml et Tezos, application à la vérification formelle de programmes OCaml** (FR), par
+  [Guillaume Claret](https://twitter.com/guillaumeclaret).  
+  [Support](https://github.com/lambdalille/mirror/blob/gh-pages/coq-of-ocaml.pdf)
+
+- **La recherche en langages de programmation** (FR), par
+  [Gabriel Scherer](http://cambium.inria.fr/~scherer/).  
+  [Support](https://github.com/lambdalille/mirror/blob/gh-pages/gasche-research-in-pl.org)
+
+
+
+
 ## λ · remote 14 : Rust et Elm (à la LilleFP 3)
 
 2021-06-17 19:00:00
