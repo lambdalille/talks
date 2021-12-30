@@ -13,11 +13,11 @@ _Online_
 
 - **Coq-of-ocaml et Tezos, application à la vérification formelle de programmes OCaml** (FR), par
   [Guillaume Claret](https://twitter.com/guillaumeclaret).  
-  [Support](https://github.com/lambdalille/mirror/blob/gh-pages/coq-of-ocaml.pdf)
+  [Vidéo](https://www.youtube.com/watch?v=PrvLhwXJjps) - [Support](https://github.com/lambdalille/mirror/blob/gh-pages/coq-of-ocaml.pdf)
 
 - **La recherche en langages de programmation** (FR), par
   [Gabriel Scherer](http://cambium.inria.fr/~scherer/).  
-  [Support](https://github.com/lambdalille/mirror/blob/gh-pages/gasche-research-in-pl.org)
+  [Vidéo](https://www.youtube.com/watch?v=fM5bVvyR_pA) - [Support](https://github.com/lambdalille/mirror/blob/gh-pages/gasche-research-in-pl.org)
 
 
 
